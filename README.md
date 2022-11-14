@@ -1,0 +1,2 @@
+# osborne-chriopractic
+ wordpress
